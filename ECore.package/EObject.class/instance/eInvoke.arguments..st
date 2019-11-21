@@ -1,3 +1,3 @@
 as yet unclassified
 eInvoke: operationID arguments: args
-	^EcorePackage EOBJECT__ECLASS
+	^ECorePackage EOBJECT__ECLASS

@@ -1,3 +1,3 @@
 as yet unclassified
 eStaticClass
-	EcorePackage eInstance object
+	ECorePackage eInstance object

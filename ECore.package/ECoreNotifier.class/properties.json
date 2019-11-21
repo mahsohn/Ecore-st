@@ -1,6 +1,6 @@
 {
 	"commentStamp" : "",
-	"super" : "ECoreBasicNotifier",
+	"super" : "Object",
 	"category" : "ECore",
 	"classinstvars" : [ ],
 	"pools" : [ ],

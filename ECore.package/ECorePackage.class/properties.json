@@ -1,11 +1,11 @@
 {
 	"commentStamp" : "",
-	"super" : "EFactory",
+	"super" : "EPackage",
 	"category" : "ECore",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [ ],
-	"name" : "EcoreFactory",
+	"name" : "ECorePackage",
 	"type" : "normal"
 }

@@ -1,6 +1,6 @@
 {
 	"commentStamp" : "",
-	"super" : "ECoreContainer",
+	"super" : "Object",
 	"category" : "ECore",
 	"classinstvars" : [ ],
 	"pools" : [ ],

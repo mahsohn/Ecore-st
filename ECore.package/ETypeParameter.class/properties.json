@@ -5,10 +5,7 @@
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
-	"instvars" : [
-		"eBounds",
-		"eGenericTypes"
-	],
+	"instvars" : [ ],
 	"name" : "ETypeParameter",
 	"type" : "normal"
 }
