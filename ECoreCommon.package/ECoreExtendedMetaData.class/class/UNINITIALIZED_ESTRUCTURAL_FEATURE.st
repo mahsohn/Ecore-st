@@ -1,0 +1,3 @@
+as yet unclassified
+UNINITIALIZED_ESTRUCTURAL_FEATURE
+	^EFactory ECoreFactory createEAttribute

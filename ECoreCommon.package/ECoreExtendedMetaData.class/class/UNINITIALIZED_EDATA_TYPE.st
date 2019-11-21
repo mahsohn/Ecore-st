@@ -1,0 +1,3 @@
+as yet unclassified
+UNINITIALIZED_EDATA_TYPE
+	^EFactory createEDataType

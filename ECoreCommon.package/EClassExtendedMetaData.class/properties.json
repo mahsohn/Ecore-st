@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "ECoreCommon",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"eClass",
+		"name",
+		"contentKind"
+	],
+	"name" : "EClassExtendedMetaData",
+	"type" : "normal"
+}

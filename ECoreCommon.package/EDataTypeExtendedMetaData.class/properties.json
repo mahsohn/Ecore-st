@@ -1,0 +1,30 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "ECoreCommon",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"eDataType",
+		"name",
+		"baseType",
+		"itemType",
+		"memberTypes",
+		"derivationKind",
+		"whiteSpace",
+		"enumerationLiterals",
+		"pattern",
+		"totalDigits",
+		"fractionDigits",
+		"length",
+		"minLength",
+		"maxLength",
+		"minExclusive",
+		"maxExclusive",
+		"minInclusive",
+		"maxInclusive"
+	],
+	"name" : "EDataTypeExtendedMetaData",
+	"type" : "normal"
+}

@@ -1,0 +1,3 @@
+as yet unclassified
+createEStructuralFeatureExtendedMetaData: eStructuralFeature
+	^ EStructuralFeatureExtendedMetaData new: eStructuralFeature

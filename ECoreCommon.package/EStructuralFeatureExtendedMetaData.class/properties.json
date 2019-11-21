@@ -1,0 +1,22 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "ECoreCommon",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"eStructuralFeature",
+		"name",
+		"namespace",
+		"featureKind",
+		"wildcards",
+		"processingKind",
+		"group",
+		"affiliation",
+		"validatorMap",
+		"eStructuralFeatureExtendedMetaData"
+	],
+	"name" : "EStructuralFeatureExtendedMetaData",
+	"type" : "normal"
+}

@@ -1,21 +1,46 @@
 as yet unclassified
-getExtendedMetaData: eClassifier
-	| result holder cache|
+getExtendedMetaData: eClassifierOrEStructuralFeature
+	| result cache|
 	cache := self instance extendedMetaDataHolderCache.
-	cache ifNotNil: [ 
-		result := cache at: eClassifier ifAbsent: nil.
-		result ifNil: [ 
-			result := self createEClassifierExtendedMetaData: eClassifier.
-			cache at: eClassifier put: result
+	(eClassifierOrEStructuralFeature isKindOf: EClassifier) ifTrue: [ 
+		cache ifNotNil: [ 
+			result := cache at: eClassifierOrEStructuralFeature ifAbsent: nil.
+			result ifNil: [ 
+				result := self createEClassifierExtendedMetaData: eClassifierOrEStructuralFeature.
+				cache at: eClassifierOrEStructuralFeature 
+				   put: result
 			].
-		^result
+			^result
+		]
+		ifNil: [ 
+			result := eClassifierOrEStructuralFeature getExtendedMetaData.
+			result ifNil: [ 
+				result := self createEClassifierExtendedMetaData: eClassifierOrEStructuralFeature.
+				eClassifierOrEStructuralFeature setExtendedMetaData: result 
+			].
+			^result
+		]
 	]
-	ifNil: [ 
-		holder := eClassifier.
-		result := holder getExtendedMetaData.
-		result ifNil: [ 
-			result := self createEClassifierExtendedMetaData: eClassifier.
-			holder setExtendedMetaData: result 
-		].
-		^result
+	ifFalse:[
+		
+		(eClassifierOrEStructuralFeature isKindOf: EStructuralFeature) ifTrue: [ 
+		cache ifNotNil: [ 
+			result := cache at: eClassifierOrEStructuralFeature ifAbsent: nil.
+			result ifNil: [ 
+				result := self createEStructuralFeatureExtendedMetaData: eClassifierOrEStructuralFeature.
+				cache at: eClassifierOrEStructuralFeature 
+				   put: result
+			].
+			^result
+		]
+		ifNil: [ 
+			result := eClassifierOrEStructuralFeature getExtendedMetaData.
+			result ifNil: [ 
+				result := self createEClassifierExtendedMetaData: eClassifierOrEStructuralFeature.
+				eClassifierOrEStructuralFeature setExtendedMetaData: result 
+			].
+			^result
+		]
+	]
+	ifFalse: [ self error: ' must be an EStructuralFeature or an eClassifier' ]
 	]
