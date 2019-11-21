@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "",
+	"super" : "EModelElement",
+	"category" : "ECore",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"source",
+		"details",
+		"contents",
+		"references",
+		"SOURCE_EDEFAULT"
+	],
+	"name" : "EAnnotation",
+	"type" : "normal"
+}

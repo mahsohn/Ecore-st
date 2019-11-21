@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "ECore",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"eflags",
+		"eAdapters",
+		"eContainer",
+		"eContainerFeatureID",
+		"eProperties"
+	],
+	"name" : "EObject",
+	"type" : "normal"
+}

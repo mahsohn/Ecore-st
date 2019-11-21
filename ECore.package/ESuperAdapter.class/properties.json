@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "ECoreAdapter",
+	"category" : "ECore",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"modifiedState"
+	],
+	"name" : "ESuperAdapter",
+	"type" : "normal"
+}

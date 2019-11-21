@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "EClassifier",
+	"category" : "ECore",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "EClass",
+	"type" : "normal"
+}

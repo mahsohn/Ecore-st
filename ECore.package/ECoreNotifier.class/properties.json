@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "ECoreBasicNotifier",
+	"category" : "ECore",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "ECoreNotifier",
+	"type" : "normal"
+}

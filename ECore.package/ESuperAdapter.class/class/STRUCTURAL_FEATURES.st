@@ -1,0 +1,3 @@
+defaults
+STRUCTURAL_FEATURES
+	^4

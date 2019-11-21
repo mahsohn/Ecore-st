@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "ECoreContainer",
+	"category" : "ECore",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"hash",
+		"keyFeature",
+		"valueFeature"
+	],
+	"name" : "ECoreDynamicContainer",
+	"type" : "normal"
+}

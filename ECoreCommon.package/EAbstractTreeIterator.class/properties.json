@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "",
+	"super" : "EBasicEList",
+	"category" : "ECoreCommon",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"includeRoot",
+		"object",
+		"nextPruneIterator",
+		"nextRemoveIterator"
+	],
+	"name" : "EAbstractTreeIterator",
+	"type" : "normal"
+}

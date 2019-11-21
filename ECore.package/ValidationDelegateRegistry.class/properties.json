@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "Dictionary",
+	"category" : "ECore",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"serialVersionUID",
+		"delegateRegistry"
+	],
+	"name" : "ValidationDelegateRegistry",
+	"type" : "normal"
+}

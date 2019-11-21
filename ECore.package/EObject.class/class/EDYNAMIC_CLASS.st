@@ -1,0 +1,3 @@
+defaults
+EDYNAMIC_CLASS
+	^2

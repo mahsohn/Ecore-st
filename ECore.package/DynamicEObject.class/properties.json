@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "EObject",
+	"category" : "ECore",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"hash",
+		"keyFeature",
+		"valueFeature"
+	],
+	"name" : "DynamicEObject",
+	"type" : "normal"
+}

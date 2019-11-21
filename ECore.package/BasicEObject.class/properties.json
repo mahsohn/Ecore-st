@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "EObject",
+	"category" : "ECore",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "BasicEObject",
+	"type" : "normal"
+}

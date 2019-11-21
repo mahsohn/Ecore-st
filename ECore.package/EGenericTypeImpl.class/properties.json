@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "MinimalEObject",
+	"category" : "ECore",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "EGenericTypeImpl",
+	"type" : "normal"
+}

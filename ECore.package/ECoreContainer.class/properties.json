@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "MinimalEObject",
+	"category" : "ECore",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "ECoreContainer",
+	"type" : "normal"
+}

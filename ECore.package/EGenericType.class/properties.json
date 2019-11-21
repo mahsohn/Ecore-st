@@ -1,0 +1,19 @@
+{
+	"commentStamp" : "",
+	"super" : "MinimalEObject",
+	"category" : "ECore",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"eUpperBound",
+		"eLowerBound",
+		"eTypeParameter",
+		"eTypeArguments",
+		"eClassifier",
+		"eObject",
+		"eRawType"
+	],
+	"name" : "EGenericType",
+	"type" : "normal"
+}

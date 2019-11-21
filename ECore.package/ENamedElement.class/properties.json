@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "EModelElement",
+	"category" : "ECore",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"name"
+	],
+	"name" : "ENamedElement",
+	"type" : "normal"
+}

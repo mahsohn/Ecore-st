@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "",
+	"super" : "ETypedElement",
+	"category" : "ECore",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"operationID",
+		"eTypeParameters",
+		"eParameters",
+		"eExceptions",
+		"eGenericExceptions"
+	],
+	"name" : "EOperation",
+	"type" : "normal"
+}

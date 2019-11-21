@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "EObject",
+	"category" : "ECore",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"eProxy",
+		"eContents",
+		"eCrossReferences"
+	],
+	"name" : "FlatEObject",
+	"type" : "normal"
+}

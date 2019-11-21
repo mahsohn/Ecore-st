@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "MinimalEObject",
+	"category" : "ECore",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"key",
+		"value"
+	],
+	"name" : "EStringToStringMapEntry",
+	"type" : "normal"
+}

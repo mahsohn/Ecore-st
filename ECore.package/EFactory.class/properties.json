@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "EModelElement",
+	"category" : "ECore",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"ePackage"
+	],
+	"name" : "EFactory",
+	"type" : "normal"
+}

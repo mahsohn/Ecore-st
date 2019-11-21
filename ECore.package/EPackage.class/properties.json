@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "ENamedElement",
+	"category" : "ECore",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"ecoreFactory",
+		"ecorePackage",
+		"eNameToEClassifierMap"
+	],
+	"name" : "EPackage",
+	"type" : "normal"
+}

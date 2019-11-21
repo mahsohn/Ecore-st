@@ -1,0 +1,3 @@
+defaults
+ELAST_NOTIFIER_FLAG
+	^self EPROXY

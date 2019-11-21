@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "EClassifier",
+	"category" : "ECore",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"SERIALIZABLE_EDEFAULT",
+		"SERIALIZABLE_EFLAG"
+	],
+	"name" : "EDataType",
+	"type" : "normal"
+}

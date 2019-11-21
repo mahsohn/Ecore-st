@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "EStructuralFeature",
+	"category" : "ECore",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"eOpposite",
+		"eKeys"
+	],
+	"name" : "EReference",
+	"type" : "normal"
+}

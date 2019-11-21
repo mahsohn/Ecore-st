@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "Dictionary",
+	"category" : "ECore",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"seerialVersionUID"
+	],
+	"name" : "EPackageRegistry",
+	"type" : "normal"
+}

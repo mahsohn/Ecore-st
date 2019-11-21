@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "EPackage",
+	"category" : "ECore",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "EcorePackage",
+	"type" : "normal"
+}

@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "",
+	"super" : "EObject",
+	"category" : "ECore",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"eClass",
+		"eProxyURI",
+		"eResource",
+		"eContents",
+		"eCrossReferences"
+	],
+	"name" : "EStoreEObject",
+	"type" : "normal"
+}

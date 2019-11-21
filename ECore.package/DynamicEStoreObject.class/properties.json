@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "DynamicEObject",
+	"category" : "ECore",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"eStore"
+	],
+	"name" : "DynamicEStoreObject",
+	"type" : "normal"
+}

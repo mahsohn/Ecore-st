@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "EStructuralFeature",
+	"category" : "ECore",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"ID_EDEFAULT",
+		"ID_EFLAG"
+	],
+	"name" : "EAttribute",
+	"type" : "normal"
+}

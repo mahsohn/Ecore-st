@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "ETypedElement",
+	"category" : "ECore",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"featureID",
+		"containerClass"
+	],
+	"name" : "EStructuralFeature",
+	"type" : "normal"
+}

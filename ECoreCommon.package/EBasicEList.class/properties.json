@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "EAbstractEList",
+	"category" : "ECoreCommon",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"size",
+		"data"
+	],
+	"name" : "EBasicEList",
+	"type" : "normal"
+}

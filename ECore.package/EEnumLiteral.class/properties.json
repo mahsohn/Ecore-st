@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "ENamedElement",
+	"category" : "ECore",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"value",
+		"instance"
+	],
+	"name" : "EEnumLiteral",
+	"type" : "normal"
+}
