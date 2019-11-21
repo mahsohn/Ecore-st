@@ -2,7 +2,9 @@
 	"commentStamp" : "",
 	"super" : "EPackage",
 	"category" : "ECore",
-	"classinstvars" : [ ],
+	"classinstvars" : [
+		"isInited"
+	],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [ ],

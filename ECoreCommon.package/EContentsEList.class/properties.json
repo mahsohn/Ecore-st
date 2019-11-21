@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "OrderedCollection",
+	"category" : "ECoreCommon",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"eObject",
+		"eStructuralFeatures"
+	],
+	"name" : "EContentsEList",
+	"type" : "normal"
+}

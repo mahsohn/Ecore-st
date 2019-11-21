@@ -1,6 +1,6 @@
 {
 	"commentStamp" : "",
-	"super" : "Object",
+	"super" : "BasicEObject",
 	"category" : "ECore",
 	"classinstvars" : [ ],
 	"pools" : [ ],

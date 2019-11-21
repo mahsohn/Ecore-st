@@ -1,0 +1,3 @@
+constants
+RESTRICTED_DERIVATION
+	^1

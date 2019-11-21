@@ -1,3 +1,3 @@
-as yet unclassified
+initialization
 eStaticClass
-	ECorePackage eInstance object
+	^ ECorePackage eINSTANCE eObject

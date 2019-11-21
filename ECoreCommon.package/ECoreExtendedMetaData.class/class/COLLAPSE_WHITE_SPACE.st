@@ -1,0 +1,3 @@
+constants
+COLLAPSE_WHITE_SPACE
+	^3

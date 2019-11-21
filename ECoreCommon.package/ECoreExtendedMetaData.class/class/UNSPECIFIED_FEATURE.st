@@ -1,0 +1,3 @@
+constants
+UNSPECIFIED_FEATURE
+	^0

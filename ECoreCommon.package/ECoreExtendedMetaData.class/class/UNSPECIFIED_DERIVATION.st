@@ -1,0 +1,3 @@
+constants
+UNSPECIFIED_DERIVATION
+	^0

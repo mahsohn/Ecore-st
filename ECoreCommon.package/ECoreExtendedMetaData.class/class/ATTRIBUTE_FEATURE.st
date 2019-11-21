@@ -1,0 +1,3 @@
+constants
+ATTRIBUTE_FEATURE
+	^2

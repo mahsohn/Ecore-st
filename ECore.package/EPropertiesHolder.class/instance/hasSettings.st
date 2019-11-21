@@ -1,0 +1,3 @@
+accessing
+hasSettings
+	^eSettings notNil

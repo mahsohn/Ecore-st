@@ -1,7 +1,7 @@
 {
 	"commentStamp" : "",
 	"super" : "Object",
-	"category" : "ECore",
+	"category" : "ECoreCommon",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],

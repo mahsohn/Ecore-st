@@ -1,0 +1,3 @@
+accessing
+eResource 
+	^self eInternalResource

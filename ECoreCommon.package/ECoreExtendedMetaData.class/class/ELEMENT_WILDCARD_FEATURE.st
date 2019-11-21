@@ -1,0 +1,3 @@
+constants
+ELEMENT_WILDCARD_FEATURE
+	^5

@@ -1,0 +1,3 @@
+initialization
+eStaticClass
+	^ ECorePackage eObject.

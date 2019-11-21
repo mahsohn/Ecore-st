@@ -1,0 +1,19 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "ECoreCommon",
+	"classinstvars" : [
+		"instance"
+	],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"annotationURI",
+		"registry",
+		"demandRegistry",
+		"extendedMetaDataHolderCache",
+		"annotationMap"
+	],
+	"name" : "ECoreExtendedMetaData",
+	"type" : "normal"
+}

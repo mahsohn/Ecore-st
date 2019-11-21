@@ -1,0 +1,3 @@
+constants
+REPLACE_WHITE_SPACE
+	^2

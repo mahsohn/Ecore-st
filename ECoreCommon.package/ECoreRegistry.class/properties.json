@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "",
+	"super" : "Dictionary",
+	"category" : "ECoreCommon",
+	"classinstvars" : [
+		"classLoaderToRegistryMap"
+	],
+	"pools" : [ ],
+	"classvars" : [
+		"instance"
+	],
+	"instvars" : [
+		"delegateRegistry"
+	],
+	"name" : "ECoreRegistry",
+	"type" : "normal"
+}

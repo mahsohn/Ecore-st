@@ -1,0 +1,3 @@
+accessing
+eAdapters
+	^ECollections emptyEList

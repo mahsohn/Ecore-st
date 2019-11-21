@@ -1,0 +1,18 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "ECore",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"eClass",
+		"eResource",
+		"eSettings",
+		"eProxyURI",
+		"eContents",
+		"eCrossReference"
+	],
+	"name" : "EPropertiesHolder",
+	"type" : "normal"
+}

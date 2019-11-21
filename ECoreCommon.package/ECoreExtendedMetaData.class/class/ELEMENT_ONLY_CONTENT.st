@@ -1,0 +1,3 @@
+constants
+ELEMENT_ONLY_CONTENT
+	^4
